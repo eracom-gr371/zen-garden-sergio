@@ -1,0 +1,19 @@
+/* code pour cercle */
+/*
+
+.intro::before,
+ */
+
+.intro h1{
+  position: absolute;
+  top:calc(50vh - 20vmin);
+  left: calc(50vw - 20vmin);
+	width: 40vmin;
+	height:40vmin;
+	display: block;
+	border-radius:50%;
+	background: black;
+	margin:10px auto;
+
+}
+/* prendre le tire participation et le positionne */
